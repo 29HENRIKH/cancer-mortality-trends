@@ -1,4 +1,5 @@
 # Uncovering Trends in Cancer Deaths by Country and Type:
+- A data-driven analysis of global cancer mortality trends (1990–2019), exploring regional differences, top cancer burdens, and forecasting future risks to support healthcare policy and research
 
 # Introduction
 - Cancer remains one of the leading causes of death worldwide, but its impact varies significantly across countries, regions, and cancer types. Understanding these variations is critical for shaping healthcare policy, allocating resources, and developing prevention and treatment strategies.
